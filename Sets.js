@@ -1,4 +1,4 @@
-// Sets Implementation
+// Sets Implementation (function based implementation)
 
 function Sets() {
   var collection = []; // this collection will hold the set
